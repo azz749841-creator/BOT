@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "kynexcraft.aternos.me.aternos.me",
+    "ip": "kynexcraft.aternos.me",
     "port": 33984,
     "version": "",
     "try-creative": false
